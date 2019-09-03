@@ -1,0 +1,36 @@
+body{
+    background-color: aliceblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.mypics{
+    float: right;
+}
+
+h3 {
+    color: black;
+    margin: 10;
+    
+}
+
+.boxed {
+    border: 1px solid black;
+    width: 100%;
+}
+
+tr:nth-child(even){
+    background-color: #e4e5f0;
+}
+
+tr:nth-child(odd){
+    background-color: #848692;
+}
+
+th, td {
+    border: 1px solid black;
+}
+
+
+
+
+
