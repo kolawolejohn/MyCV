@@ -3,7 +3,7 @@ body{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
-#mypics{
+.mypics{
     float: right;
 }
 
@@ -30,7 +30,7 @@ th, td {
     border: 1px solid black;
 }
 
-#logo {
-    float: right;
-}
+
+
+
 
